@@ -293,4 +293,52 @@ main{
     margin-top: -10px;
 }
 
+/* sponsor  */
 
+.sponsor-area {
+    text-align: center;
+    padding-top: 40px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.sponsor-area h1{
+    font-size: 35px;
+}
+
+.sponsor-area p{
+    font-size: 12px;
+    color: #727272;
+    margin-top: -8px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+}
+
+.sponsor-img{
+    display: flex;
+    gap: 50px;
+    padding-left: 250px;
+    padding-top: 50px;
+    
+}
+
+.img-style{
+    height: 40px;
+    width: 150px;
+}
+
+/* footer  */
+
+.footer-area {
+    margin-top: 100px;
+    background-color: rgba(255, 244, 231, 1);
+    text-align: center;
+    width: 72%;
+    margin-left: 220px;
+    padding: 16px;
+    margin-bottom: 100px;
+}
+
+.footer-area p{
+    font-size: 16px;
+    font-family: 'Work Sans', sans-serif;
+}
